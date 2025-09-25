@@ -72,14 +72,20 @@ For example: "A serene landscape in the style of a watercolor painting with soft
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
 
 ## Reference image:
+![download](https://github.com/user-attachments/assets/daa1b6ed-e8fb-4449-9903-50d69fce847c)
 
 ## Prompt:
+Create a picture of rainy forest during evening where there is a waterfalls
 
 ## Original image:
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/00acfa55-18de-4181-a41f-70a5981142e4" />
 
 ## Refined Prompt:
+"A breathtaking natural landscape featuring a majestic waterfall cascading down a cliff face into a serene pool below. The surrounding area is a vibrant, lush green forest with a variety of trees and foliage. Mist rises from the base of the waterfall, adding to the ethereal atmosphere. In the foreground, a distinctive conifer tree with a flat-topped canopy stands prominently to the left, adding a unique focal point. The sky is bright with some clouds, suggesting either an overcast day or early morning/late afternoon light filtering through. The overall impression is one of untouched natural beauty and grandeur."
 
 ## Updated Image:
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/66c70245-c73d-4881-8a58-54dfca20f3c7" />
+
 
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
